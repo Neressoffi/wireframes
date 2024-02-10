@@ -1,0 +1,19 @@
+.wordings {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  border-bottom: 1px solid black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+.wordings p {
+  margin-right: 2vw;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+.wordings h1 {
+  margin-left: 2vw;
+}

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "wireframes",
+=======
+  "name": "wireframsas",
+>>>>>>> 856033774aa3d16fc7f177b729900ce401099869
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +13,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
+=======
+    "sass": "^1.70.0",
+>>>>>>> 856033774aa3d16fc7f177b729900ce401099869
     "web-vitals": "^2.1.4"
   },
   "scripts": {
